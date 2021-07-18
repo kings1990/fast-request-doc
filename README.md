@@ -4,6 +4,7 @@
 ![Version](http://phpstorm.espend.de/badge/16988/version)
 ![Downloads](http://phpstorm.espend.de/badge/16988/downloads)
 ![Downloads Last Month](http://phpstorm.espend.de/badge/16988/last-month)
+[![Slack](https://img.shields.io/badge/Slack-%23Fast--Request-red)](https://fastrequest.slack.com)
 
 **Fast Request** is a plugin based on springmvc that help you quickly generate **url** and **params**.It is also a http client tool.
 
