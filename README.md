@@ -5,7 +5,7 @@
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/16988)
 [![Slack](https://img.shields.io/badge/Slack-%23Fast--Request-red)](https://fastrequest.slack.com)
 
-**Fast Request** is a plugin based on springmvc that help you quickly generate **url** and **params**.It is also a http client tool.
+[**Fast Request**](https://plugins.jetbrains.com/plugin/16988-fast-request) is a plugin based on springmvc that help you quickly generate **url** and **params**.It is also a http client tool.
 
 Just press the shortcut key, Plugin will give you the url and params, Then click Send Request button to complete the http request
 
