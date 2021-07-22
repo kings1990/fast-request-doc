@@ -44,15 +44,17 @@ recommend way:just click FastRequest icon
 ![](./screenshot/methodIcon.png)
 
 
-|key|scope|description|
-| --- | --- | --- |
-| <kbd> ctrl \ </kbd> | method(just put the cursor on method) | Generate the url and request parameters of the current method |
+[comment]: <> (|key|scope|description|)
 
-if it doesn't work,you can search <kbd>Generate URL and Param</kbd> in key map and change the key
+[comment]: <> (| --- | --- | --- |)
 
-modify key:<kbd>Preferences(Settings)</kbd> > <kbd>Keymap</kbd>
+[comment]: <> (| <kbd> ctrl \ </kbd> | method&#40;just put the cursor on method&#41; | Generate the url and request parameters of the current method |)
 
-other way:<kbd>Code(Toolbar)</kbd> > <kbd>Generate</kbd> > <kbd>Generate URL and Param</kbd>
+[comment]: <> (if it doesn't work,you can search <kbd>Generate URL and Param</kbd> in key map and change the key)
+
+[comment]: <> (modify key:<kbd>Preferences&#40;Settings&#41;</kbd> > <kbd>Keymap</kbd>)
+
+[comment]: <> (other way:<kbd>Code&#40;Toolbar&#41;</kbd> > <kbd>Generate</kbd> > <kbd>Generate URL and Param</kbd>)
 
 
 
