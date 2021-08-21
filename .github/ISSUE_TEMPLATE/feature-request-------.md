@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-# 建议/改进(Suggestion/improvement)
+## 建议/改进(Suggestion/improvement)
 eg:希望支持xx类型的解析(eg:hope to support parsing of type XX)
